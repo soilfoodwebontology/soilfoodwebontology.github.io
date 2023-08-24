@@ -9,6 +9,7 @@ The Soil Food Web Ontology (SFWO) is an OWL ontology that provides a formal repr
 <br>
 
 ![Diagram showing the core classes and properties of the Soil Food Web Ontology.](/images/sfwo_core.png)
+*The core classes and properties of the Soil Food Web Ontology (SFWO).*
 
 ## Who is involved in the development of the SFWO?
 
