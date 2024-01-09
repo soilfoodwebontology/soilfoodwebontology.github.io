@@ -26,3 +26,17 @@ Members of the SFWO Working Group meet regularly to vet and approve changes to t
 - Carlos A. Martínez-Muñoz (Senckenberg - Leibniz Institution for Biodiversity and Earth System Research)
 - Benjamin Pey (Laboratoire Ecologie Fonctionnelle et Environnement, LEFE)
 - David J. Russell (Senckenberg - Leibniz Institution for Biodiversity and Earth System Research)
+
+## How to contribute to the Soil Food Web Ontology?
+
+## Cite the Soil Food Web Ontology
+
+Please cite Le Guillarme, N., Hedde, M., Potapov, A. M., Martínez-Muñoz, C. A., Berg, M. P., Briones, M. J., ... & Thuiller, W. (2023). ![The Soil Food Web Ontology: Aligning trophic groups, processes, resources, and dietary traits to support food-web research](https://www.sciencedirect.com/science/article/abs/pii/S1574954123003898). *Ecological Informatics*, 78, 102360.
+
+## Contact us
+
+- The SFWO users mailing list : ![sfwo-users@framagroupes.org](mailto:sfwo-users@framagroupes.org)
+
+To subscribe to the mailing list, send a message to sympa@framagroupes.org. In the subject line, write: *subscribe sfwo-users First name Last name*. Leave the body of the message blank.
+
+- Issue tracker : ![https://github.com/soilfoodwebontology/sfwo/issues](https://github.com/soilfoodwebontology/sfwo/issues)
