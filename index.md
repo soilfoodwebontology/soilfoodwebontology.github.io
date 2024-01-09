@@ -27,6 +27,10 @@ Members of the SFWO Working Group meet regularly to vet and approve changes to t
 - Benjamin Pey (Laboratoire Ecologie Fonctionnelle et Environnement, LEFE)
 - David J. Russell (Senckenberg - Leibniz Institution for Biodiversity and Earth System Research)
 
+## Documentation
+
+- [SFWO data modelling](data_modelling.md)
+
 ## How to contribute to the Soil Food Web Ontology?
 
 Please use our GitHub issue tracker to request a term or report a problem with the SFWO: [https://github.com/soilfoodwebontology/sfwo/issues](https://github.com/soilfoodwebontology/sfwo/issues)
