@@ -29,6 +29,8 @@ Members of the SFWO Working Group meet regularly to vet and approve changes to t
 
 ## How to contribute to the Soil Food Web Ontology?
 
+Please use our GitHub issue tracker to request a term or report a problem with the SFWO: [https://github.com/soilfoodwebontology/sfwo/issues](https://github.com/soilfoodwebontology/sfwo/issues)
+
 ## Cite the Soil Food Web Ontology
 
 Please cite Le Guillarme, N., Hedde, M., Potapov, A. M., Martínez-Muñoz, C. A., Berg, M. P., Briones, M. J., ... & Thuiller, W. (2023). [The Soil Food Web Ontology: Aligning trophic groups, processes, resources, and dietary traits to support food-web research](https://www.sciencedirect.com/science/article/abs/pii/S1574954123003898). *Ecological Informatics*, 78, 102360.
