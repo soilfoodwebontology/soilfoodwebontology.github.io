@@ -31,8 +31,6 @@ Members of the SFWO Working Group meet regularly to vet and approve changes to t
 
 The [SFWO user manual](documentation.md) is designed to explain the core functionality of the SFWO for newcomers, and to serve as a canonical reference for developers. It is under active development.
 
-- [Data modelling in the SFWO](data_modelling.md)
-
 ## How to contribute to the Soil Food Web Ontology?
 
 Please use our GitHub issue tracker to request a term or report a problem with the SFWO: [https://github.com/soilfoodwebontology/sfwo/issues](https://github.com/soilfoodwebontology/sfwo/issues)
