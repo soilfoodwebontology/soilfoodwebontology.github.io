@@ -6,7 +6,7 @@ filename: data_modelling.md
 
 # Data modelling in the SFWO
 
-*[<<](https://soilfoodwebontology.github.io/) Back to home page*
+*[<<](https://soilfoodwebontology.github.io/documentation.html) Back to documentation*
 
 The SFWO can be used to provide detailed descriptions of the trophic behaviour of an organism, including its diet, feeding guild, trophic group, trophic interactions in which it is involved, etc. The following diagram shows the data modelling approach adopted by the SFWO to represent the fact that "*Carabus auratus* is a predator":
 
