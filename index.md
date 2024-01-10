@@ -39,6 +39,11 @@ Please use our GitHub issue tracker to request a term or report a problem with t
 
 Please cite Le Guillarme, N., Hedde, M., Potapov, A. M., Martínez-Muñoz, C. A., Berg, M. P., Briones, M. J., ... & Thuiller, W. (2023). [The Soil Food Web Ontology: Aligning trophic groups, processes, resources, and dietary traits to support food-web research](https://www.sciencedirect.com/science/article/abs/pii/S1574954123003898). *Ecological Informatics*, 78, 102360.
 
+## They are using the SFWO?
+
+- Calderón-Sanou, I., Ohlmann, M., Münkemüller, T., Zinger, L., Hedde, M., Lionnet, C., ... & Orchamp Consortium. (2023). [Mountain soil multitrophic networks shaped by the interplay between habitat and pedoclimatic conditions](https://www.sciencedirect.com/science/article/abs/pii/S0038071723003449). Soil Biology and Biochemistry, 109282.
+- Le Guillarme, N., & Thuiller, W. (2023). [A practical approach to constructing a knowledge graph for soil ecological research](https://www.sciencedirect.com/science/article/abs/pii/S116455632300033X). European Journal of Soil Biology, 117, 103497.
+
 ## Contact us
 
 - The SFWO users mailing list : [sfwo-users@framagroupes.org](mailto:sfwo-users@framagroupes.org)

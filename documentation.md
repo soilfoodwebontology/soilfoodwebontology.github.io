@@ -16,5 +16,4 @@ This user manual is designed to explain the core functionality of the SFWO for n
 - [Data modelling in the SFWO](data_modelling.md)
 - Example use cases (*coming soon*)
 - Implementation and development notes (*coming soon*)
-- Who is using the SFWO? (*coming soon*)
 
