@@ -29,7 +29,7 @@ Members of the SFWO Working Group meet regularly to vet and approve changes to t
 
 ## Documentation
 
-- [SFWO data modelling](data_modelling.md)
+- [Data modelling in the SFWO](data_modelling.md)
 
 ## How to contribute to the Soil Food Web Ontology?
 
